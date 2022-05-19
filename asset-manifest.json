@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Gestionde-stage/static/css/main.d6a1cafe.chunk.css",
+    "main.js": "/Gestionde-stage/static/js/main.230d381c.chunk.js",
+    "main.js.map": "/Gestionde-stage/static/js/main.230d381c.chunk.js.map",
+    "runtime-main.js": "/Gestionde-stage/static/js/runtime-main.a9e7938e.js",
+    "runtime-main.js.map": "/Gestionde-stage/static/js/runtime-main.a9e7938e.js.map",
+    "static/js/2.cabe1741.chunk.js": "/Gestionde-stage/static/js/2.cabe1741.chunk.js",
+    "static/js/2.cabe1741.chunk.js.map": "/Gestionde-stage/static/js/2.cabe1741.chunk.js.map",
+    "static/js/3.e8019b30.chunk.js": "/Gestionde-stage/static/js/3.e8019b30.chunk.js",
+    "static/js/3.e8019b30.chunk.js.map": "/Gestionde-stage/static/js/3.e8019b30.chunk.js.map",
+    "index.html": "/Gestionde-stage/index.html",
+    "static/css/main.d6a1cafe.chunk.css.map": "/Gestionde-stage/static/css/main.d6a1cafe.chunk.css.map",
+    "static/js/2.cabe1741.chunk.js.LICENSE.txt": "/Gestionde-stage/static/js/2.cabe1741.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/Gestionde-stage/static/media/bak3.e02d8eba.jpg",
+    "static/media/contact11.6cce6a7a.png": "/Gestionde-stage/static/media/contact11.6cce6a7a.png",
+    "static/media/contact7.9747ac45.png": "/Gestionde-stage/static/media/contact7.9747ac45.png",
+    "static/media/contact9.fee3c5c5.png": "/Gestionde-stage/static/media/contact9.fee3c5c5.png",
+    "static/media/Accueil.css": "/Gestionde-stage/static/media/img11.f9d71a6e.jpg",
+    "static/media/img3.82aff82e.jpg": "/Gestionde-stage/static/media/img3.82aff82e.jpg",
+    "static/media/img4.9681c1eb.jpg": "/Gestionde-stage/static/media/img4.9681c1eb.jpg",
+    "static/media/logo222.ec0ccb42.png": "/Gestionde-stage/static/media/logo222.ec0ccb42.png",
+    "static/media/mapedep.d27c505d.png": "/Gestionde-stage/static/media/mapedep.d27c505d.png",
+    "static/media/mapisep.c26e0ead.png": "/Gestionde-stage/static/media/mapisep.c26e0ead.png",
+    "static/media/mapvolkeno.0711a6a9.png": "/Gestionde-stage/static/media/mapvolkeno.0711a6a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e7938e.js",
+    "static/js/2.cabe1741.chunk.js",
+    "static/css/main.d6a1cafe.chunk.css",
+    "static/js/main.230d381c.chunk.js"
+  ]
+}
